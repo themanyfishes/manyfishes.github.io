@@ -21,10 +21,11 @@ author: Nicolás Alessandroni, Laurent Prétôt, and Julia Espinosa
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - ManyManys 1: "MM1"
+  Partner Networks:
+    - ManyBabies: "https://manybabies.github.io"
+
 
 ################
 # --- Logo --- #
