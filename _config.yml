@@ -20,9 +20,14 @@ author: Nicolás Alessandroni, Laurent Prétôt, and Julia Espinosa
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  People: "people"
   Projects:
     - ManyManys 1: "MM1"
+  Resources:
+    - Code of Conduct: "COC" 
+  Publications: "publications"
+  Calendar: "calendar"
+  Get Involved: "mailto:themanymanys1@gmail.com"
   Other BTS Networks:
     - ManyBabies: "https://manybabies.github.io"
     - ManyBirds: "http://themanybirds.com"
