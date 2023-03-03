@@ -23,8 +23,11 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - ManyManys 1: "MM1"
-  Partner Networks:
+  Other BTS Networks:
     - ManyBabies: "https://manybabies.github.io"
+    - ManyBirds: "http://themanybirds.com"
+    - ManyPrimates: "https://manyprimates.github.io"
+    
 
 
 ################
@@ -95,7 +98,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+url-pretty: "manymanys.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -118,7 +121,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "manymanys, big team science, comparative cognition, BTS"
 
 ######################################
 # --- Colours / background image --- #
