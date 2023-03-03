@@ -25,15 +25,9 @@ navbar-links:
     - ManyManys 1: "MM1"
   Resources:
     - Code of Conduct: "COC" 
-  Publications: "publications"
-  Calendar: "calendar"
+    - Calendar: "calendar"
+    - Publications: "publications"
   Get Involved: "mailto:themanymanys1@gmail.com"
-  Other BTS Networks:
-    - ManyBabies: "https://manybabies.github.io"
-    - ManyBirds: "http://themanybirds.com"
-    - ManyPrimates: "https://manyprimates.github.io"
-    
-
 
 ################
 # --- Logo --- #
