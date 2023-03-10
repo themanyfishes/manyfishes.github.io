@@ -1,7 +1,10 @@
 ---
 layout: page
 title: ManyManys' Code of Conduct
+subtitle:
+cover-img:
 ---
+
 Last update: March 9, 2023
 
 # Our Pledge
