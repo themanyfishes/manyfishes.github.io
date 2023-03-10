@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ManyManys 1: Reversal Learning
+title: ManyManys 1 — Reversal Learning
 subtitle: 
 cover-img: /assets/img/purple.png
 ---
