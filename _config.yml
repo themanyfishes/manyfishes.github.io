@@ -21,7 +21,7 @@ author: Nicolás Alessandroni, Laurent Prétôt, and Julia Espinosa
 
 navbar-links:
   Projects:
-    - ManyManys 1: "MM1"
+    - MM1: "MM1"
   Resources:
     - Code of Conduct: "COC" 
     - Calendar: "calendar"
