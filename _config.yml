@@ -24,7 +24,7 @@ navbar-links:
     - MM1: "MM1"
   Resources:
     - Code of Conduct: "COC"
-    - Collaboration Agreement: "https://docs.google.com/document/d/1TS_va-GiUmDONuHZe5gghPNX5gdSMayrCR1TV2OZntg/edit?usp=sharing"
+    - Collab. Agreement: "https://docs.google.com/document/d/1TS_va-GiUmDONuHZe5gghPNX5gdSMayrCR1TV2OZntg/edit?usp=sharing"
     - Events: "events"
     - Publications: "publications"
   Get Involved: "mailto:themanymanys1@gmail.com"
@@ -117,7 +117,7 @@ edit_page_button: false
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: true
+navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
 keywords: "manymanys, big team science, comparative cognition, BTS"
