@@ -123,17 +123,17 @@ keywords: "manyfishes, big team science, BTS, cognition, behavior"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#4682B4"
+navbar-text-col: "#000080"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFAFA"
+page-col: "#B0E0E6"
 text-col: "#000080"
-link-col: "#6c48a1"
-hover-col: "#60428a"
-footer-col: "#EAEAEA"
+link-col: "#000080"
+hover-col: "7FFFD4"
+footer-col: "#4682B4"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#60428a"
+footer-link-col: "#000080"
+footer-hover-col: "7FFFD4"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
