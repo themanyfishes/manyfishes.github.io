@@ -126,8 +126,8 @@ keywords: "manyfishes, big team science, BTS, cognition, behavior"
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#F0F8FF" aliceblue
-text-col: "#2F4F4F" darkslategray
+page-col: "#F0F8FF"
+text-col: "#2F4F4F"
 link-col: "#6c48a1"
 hover-col: "#60428a"
 footer-col: "#EAEAEA"
