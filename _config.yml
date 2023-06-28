@@ -20,9 +20,12 @@ author: ManyFishes
 ###############################################
 
 navbar-links:
-  About Us: "COMING SOON"
-  Projects: "COMING SOON"
-  Resources: "COMING SOON"
+  About Us:
+    - COMING SOON:
+  Projects:
+    - COMING SOON:
+  Resources:
+    - COMING SOON:
     
 ################
 # --- Logo --- #
