@@ -21,9 +21,9 @@ author: ManyFishes
 
 navbar-links:
   About Us:
-    - Core team:
+    - Core team: "Core team"
   Projects:
-    - ManyFishes 1:
+    - ManyFishes 1: "ManyFishes 1"
   Resources:
     - COMING SOON:
     
