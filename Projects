@@ -1,0 +1,25 @@
+---
+layout: page
+title: ManyFishes1
+subtitle:
+cover-img:
+---
+<!DOCTYPE html>
+<html lang=en>
+<section>
+      <header class="major">
+            <h3>Project Leads</h3>
+      </header>
+      <ul>
+         <li>Christian Agrillo (University of Padova, Italy)</li>
+         <li>Redouan Bshary (University of Neuchâtel, Switzerland)</li>
+         <li>Eleanor Caves (University of California - Santa Barbara, USA)</li>
+         <li>Yseult Héjja-Brichard (University of Maryland - Baltimore County, USA)</li>
+         <li>Tamra Mendelson (University of Maryland - Baltimore County, USA)</li>
+         <li>Laurent Prétôt (Pittsburg State University, USA)</li>
+         <li>Zegni Triki (University of Bern, Switzerland)</li>
+      <header class="major">
+            <h3>Contributors</h3>
+      </header>
+      <ul>
+         <li>You?</li>
